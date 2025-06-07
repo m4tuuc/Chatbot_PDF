@@ -14,8 +14,10 @@ Por el momento el modelo devuelve la respuesta en ingles.
 
 ---
 
-## Como usar
-   *Vamos a nuestra terminal y hacemos lo siguiente*
+## Como usar localmente
+   _Presionamos CTRL+R para y ejecutamos el comando cmd_
+   
+   _Al abrir nuestra terminal navegamos hasta el directorio donde vamos a guardar nuestro programa._
 
 1. **Clonar el repositorio**
 ```bash
