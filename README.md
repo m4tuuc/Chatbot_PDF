@@ -2,7 +2,7 @@
 Programa con arquitectura RAG integrada, donde el usuario ingresa un pdf y este le devuelve toda la informacion que se le pida acerca del documento.
 
 
-Puedes probarlo aqui ->  [![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face-Space-blue?logo=huggingface)](https://huggingface.co/spaces/M4tuuc/cannmodel_es)    
+Puedes probarlo aqui ->  [![Hugging Face Space](https://img.shields.io/badge/Hugging%20Face-Space-blue?logo=huggingface)]((https://huggingface.co/spaces/M4tuuc/RAG_PDF))    
 ---
 
 Use el LLM *gemma-2-2b-it* de Google, un modelo simple y ligero que cumple con la funcion.
