@@ -38,11 +38,15 @@ pip install -r requirements.txt
 
 4. **Corremos el programa**
 ```bash
-streamlit run src/rag.py
+streamlit run src/app.py
 ```
 
 ---
 
 
+
+## 🤝 Contributing
+
+Feel free to submit issues and enhancement requests.
 
 
