@@ -135,7 +135,7 @@ def load_model():
         print("No se encontró GPU. El modelo permanecera en la CPU.")
 
 
-    # model = model.to_empty(device="cuda")
+  
     # model.tie_weights()
 
     tokenizer = AutoTokenizer.from_pretrained(model_id)
