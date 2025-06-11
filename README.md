@@ -1,4 +1,4 @@
-# RAG PDF
+# Consultas sobre un PDF
 Chatbot con arquitectura RAG integrada, donde el usuario ingresa un pdf y este le devuelve toda la informacion que se le pida acerca del documento.
 
 
