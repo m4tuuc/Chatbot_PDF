@@ -30,7 +30,7 @@ _proximamente disponible en gpu_
 
 1. **Clonar el repositorio**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/m4tuuc/Chatbot_PDF.git
 cd RAG_PDF
 ```
 
