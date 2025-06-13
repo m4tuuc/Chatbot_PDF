@@ -27,6 +27,7 @@ _proximamente disponible en gpu_
 
 ## Como usarlo localmente (SOLO SI HAY GPU DISPONIBLE)
    _Presionamos WINDOWS+R para y ejecutamos el comando cmd_
+   
    _Ctrl + Alt + T para Linux_
    
    _Al abrir nuestra terminal navegamos hasta el directorio donde vamos a guardar nuestro programa._
