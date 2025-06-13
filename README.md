@@ -3,7 +3,7 @@
    <h1><strong>Chatbot PDF</strong></h1>
 </div>
 
-Chatbot para hacer consultas a documentos PDF usando IA, arquitectura RAG integrada donde el usuario ingresa un pdf y este le devuelve toda la informacion que se le pida acerca del documento.
+Chatbot para hacer consultas a documentos PDF usando LLM y RAG.
 
 ---
 
